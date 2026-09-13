@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=240&section=header&text=Sayam%20Mukherjee&fontSize=58&fontColor=7dd3fc&animation=twinkling&fontAlignY=38&desc=B.Tech%20CSE%20%28AI%20%26%20ML%29%20%E2%80%94%20KIIT%20University&descAlignY=58&descSize=17&descColor=bae6fd" />
+<img width="100%" src="https://raw.githubusercontent.com/codesbysayam/codesbysayam/main/profile/header.svg" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Building+AI-powered+products+from+0+to+deployment;React+%7C+Node.js+%7C+Python+%7C+Computer+Vision;Open+to+internships+%26+developer+opportunities" alt="Typing SVG" />
@@ -219,4 +219,4 @@ Explores a fixed-size recurrent state for carrying task-relevant information for
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://raw.githubusercontent.com/codesbysayam/codesbysayam/main/profile/footer.svg" />
