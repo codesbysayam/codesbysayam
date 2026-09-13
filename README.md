@@ -30,31 +30,42 @@
 
 ## 🧑‍💻 Who I Am
 
-<img align="right" alt="Coding" width="290" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=7dd3fc&center=true&vCenter=true&repeat=true&width=780&height=45&lines=AI+%26+ML+Student+%7C+Builder+%7C+Problem+Solver;Turning+ideas+into+working+products;Exploring+Computer+Vision+%7C+GenAI+%7C+Full+Stack;Learning+fast.+Building+consistently.+Shipping+with+purpose." alt="Animated introduction" />
+</div>
 
-```typescript
-const sayamMukherjee = {
-  name: "Sayam Mukherjee",
-  title: "B.Tech CSE — AI & ML Student",
-  university: "KIIT University",
-  graduation: 2029,
-  cgpa: "9.06 — First Year Overall",
-  stack: {
-    frontend: ["React", "JavaScript", "Tailwind CSS", "Bootstrap", "Figma"],
-    backend: ["Node.js", "MongoDB"],
-    ai: ["Python", "Machine Learning", "Deep Learning", "Generative AI"],
-    vision: ["YOLOv8", "PyTorch", "OpenCV", "Object Detection", "Tracking"],
-    tools: ["Git", "GitHub", "VS Code", "Vercel", "Canva"]
-  },
-  currentlyBuilding: ["MAUSAM", "MEMORY IN MOTION", "YOLOv8 Edge CV"],
-  roles: ["Student Developer", "Freelancer", "Content Creator", "Builder"],
-  openTo: ["Internships", "Collaborations", "AI/ML & Software Opportunities"],
-  goal: "Become a Software Engineer + AI Engineer",
-  motto: "Learn. Build. Experiment. Ship."
-};
-```
+<br/>
+
+<img align="right" alt="Coding animation" width="290" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+### 👋 The Short Version
+
+I'm **Sayam Mukherjee**, a **B.Tech CSE (AI & ML) student at KIIT University** who enjoys taking an idea from a rough concept to a usable technical product.
+
+My work sits around **Artificial Intelligence, Machine Learning, Computer Vision, Full Stack Development and DSA**. I like understanding how systems work under the hood, experimenting with them, and then turning that learning into something people can actually use.
+
+### ⚙️ How I Work
+
+- 🧠 **Understand** the problem before choosing the technology.
+- 🔬 **Experiment** with models, architectures and implementation ideas.
+- 🛠️ **Build** practical, responsive and maintainable solutions.
+- 🐛 **Debug** aggressively and learn from what breaks.
+- 🚀 **Ship** working versions instead of waiting for perfection.
+- 📈 **Iterate** using feedback, testing and measurable improvement.
+
+### 🔥 Right Now
+
+| Area | What I'm working toward |
+|---|---|
+| 🤖 **AI / ML** | Practical machine learning, deep learning & Generative AI |
+| 👁️ **Computer Vision** | Detection, tracking & Edge AI with YOLOv8 / PyTorch |
+| 🌐 **Full Stack** | Building complete, responsive and user-focused products |
+| 🧩 **DSA** | Stronger problem solving, algorithms & core CS fundamentals |
+| 🚀 **Product Building** | MAUSAM, MEMORY IN MOTION & other experimental builds |
 
 <br clear="right"/>
+
+> **Learn deeply. Build boldly. Break things. Fix them. Ship better.**
 
 ---
 
@@ -333,43 +344,84 @@ Started playing in 2013 · Represented district level in 2019 · Reached finals 
 
 ## 🎯 Current Focus
 
-```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Computer Vision
-        ↓
-Generative AI
-        ↓
-Full Stack Development
-        ↓
-Data Structures & Algorithms
-        ↓
-AI-powered Product Building
-        ↓
-Software Engineering
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2400&pause=700&color=7dd3fc&center=true&vCenter=true&repeat=true&width=760&height=42&lines=Artificial+Intelligence+%E2%86%92+Machine+Learning;Computer+Vision+%E2%86%92+Edge+AI;Full+Stack+Development+%E2%86%92+Real+Products;DSA+%E2%86%92+Stronger+Problem+Solving;Research+%E2%86%92+Experiments+%E2%86%92+Working+Systems" alt="Animated current focus" />
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI & Machine Learning
+- Strengthen ML and deep-learning fundamentals
+- Experiment with practical AI workflows
+- Explore Generative AI and model behaviour
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ Computer Vision
+- Build real-time detection pipelines
+- Explore tracking and Edge AI
+- Improve practical YOLOv8 / PyTorch skills
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Product Engineering
+- Build responsive full-stack products
+- Improve architecture, UX and reliability
+- Turn prototypes into usable systems
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Core CS
+- DSA and problem solving
+- Stronger software-engineering fundamentals
+- Better debugging, Git and deployment practices
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**MAUSAM** · **MEMORY IN MOTION** · **YOLOv8 Edge CV**
+
+</div>
 
 ## 🌱 Learning & Building
 
-```text
-Learn
-  ↓
-Experiment
-  ↓
-Build
-  ↓
-Break Things
-  ↓
-Debug
-  ↓
-Improve
-  ↓
-Ship
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2200&pause=650&color=7dd3fc&center=true&vCenter=true&repeat=true&width=700&height=42&lines=Learn+%E2%86%92+Experiment+%E2%86%92+Build;Break+%E2%86%92+Debug+%E2%86%92+Improve;Test+%E2%86%92+Ship+%E2%86%92+Repeat" alt="Animated learning loop" />
+</div>
 
-I'm continuously working toward becoming a stronger **Software Engineer + AI Engineer**, while building useful products and exploring new technologies.
+<br/>
+
+<div align="center">
+
+| 📚 LEARN | 🧪 EXPERIMENT | 🛠️ BUILD | 🚀 SHIP |
+|---|---|---|---|
+| Strengthen fundamentals | Try new models & tools | Turn ideas into products | Test, deploy & iterate |
+| Study AI/ML + DSA | Prototype quickly | Focus on real use cases | Improve from feedback |
+
+</div>
+
+### 🧭 My Build Loop
+
+**01 · Learn** → understand the fundamentals  
+**02 · Experiment** → test ideas without over-engineering  
+**03 · Build** → create a functional version  
+**04 · Break & Debug** → find the weak points  
+**05 · Improve** → refine performance, UX and reliability  
+**06 · Ship** → release, evaluate and keep iterating
+
+> **The goal isn't to know everything. The goal is to keep getting better at building.**
 
 ---
 
