@@ -22,7 +22,7 @@
   <path d="M0 205 C170 230 285 220 420 195 C575 167 685 171 830 194 C975 217 1080 220 1200 195" fill="none" stroke="#16465b" stroke-width="2" opacity="0.8">
     <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 205 C170 230 285 220 420 195 C575 167 685 171 830 194 C975 217 1080 220 1200 195;M0 195 C150 215 290 228 430 205 C575 178 690 164 835 184 C990 206 1080 230 1200 200;M0 205 C170 230 285 220 420 195 C575 167 685 171 830 194 C975 217 1080 220 1200 195"/>
   </path>
-  <text x="600" y="92" text-anchor="middle" fill="#7dd3fc" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="600" filter="url(#glow)">Sayam Mukherjee">
+  <text x="600" y="92" text-anchor="middle" fill="#7dd3fc" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="600" filter="url(#glow)">Sayam Mukherjee
     <animate attributeName="opacity" values="1;0.72;1" dur="4s" repeatCount="indefinite"/>
   </text>
   <text x="600" y="139" text-anchor="middle" fill="#bae6fd" font-family="Arial, Helvetica, sans-serif" font-size="17">B.Tech CSE (AI &amp; ML) — KIIT University</text>
