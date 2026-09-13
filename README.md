@@ -1,20 +1,31 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=240&section=header&text=Sayam%20Mukherjee&fontSize=58&fontColor=7dd3fc&animation=twinkling&fontAlignY=38&desc=B.Tech%20CSE%20%28AI%20%26%20ML%29%20%E2%80%94%20KIIT%20University&descAlignY=58&descSize=17&descColor=bae6fd" />
+
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student+%7C+Full+Stack+Developer;Building+AI-powered+products+from+idea+to+deployment;React+%7C+Node.js+%7C+Python+%7C+Computer+Vision;Machine+Learning+%7C+Generative+AI+%7C+DSA;Open+to+internships%2C+collaborations+%26+tech+opportunities" alt="Typing SVG" />
+</div>
 
-<img width="100%" src="https://readmeforge.natrajx.in/api/banner?text=Sayam%20Mukherjee&subtext=B.Tech%20CSE%20%28AI%20%26%20ML%29%20%E2%80%94%20KIIT%20University&metal=obsidian&type=wave&width=1200&height=240" alt="Sayam Mukherjee — B.Tech CSE (AI & ML) — KIIT University" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%7C+Machine+Learning;Computer+Vision+%7C+Deep+Learning;Full+Stack+Development+%7C+DSA;Building+AI-Powered+Real-World+Products;Student+Developer+%7C+Freelancer+%7C+Builder" alt="Typing Animation" />
+<div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-AI%20%2F%20ML%20%2F%20FULL%20STACK%20ROLES-7dd3fc?style=for-the-badge&labelColor=0a2a3a&color=0d3347" alt="Open to Work" />
+</div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/🟢%20BUILDING%20%26%20LEARNING-AI%20%2F%20ML%20%2F%20FULL%20STACK-7dd3fc?style=for-the-badge&labelColor=0a2a3a&color=0d3347" alt="Current Focus" />
-
-<br/><br/>
-
-<a href="https://github.com/codesbysayam"><img src="https://komarev.com/ghpvc/?username=codesbysayam&label=Profile%20Views&color=7dd3fc&style=flat-square&labelColor=0a2a3a" /></a>
-<a href="https://github.com/codesbysayam?tab=followers"><img src="https://img.shields.io/github/followers/codesbysayam?label=Followers&style=flat-square&color=7dd3fc&labelColor=0a2a3a" /></a>
-<a href="https://www.linkedin.com/in/sayam-mukherjee-b96209324/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=flat-square&logo=linkedin&logoColor=7dd3fc&labelColor=0a2a3a" /></a>
-<a href="mailto:sayammukherjee1506@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-7dd3fc?style=flat-square&logo=gmail&logoColor=7dd3fc&labelColor=0a2a3a" /></a>
-
+<div align="center">
+  <a href="https://github.com/codesbysayam">
+    <img src="https://komarev.com/ghpvc/?username=codesbysayam&label=Profile+Views&color=7dd3fc&style=flat-square&labelColor=0a2a3a" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/codesbysayam?tab=followers">
+    <img src="https://img.shields.io/github/followers/codesbysayam?label=Followers&style=flat-square&color=7dd3fc&labelColor=0a2a3a" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sayam-mukherjee-b96209324/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=flat-square&logo=linkedin&logoColor=7dd3fc&labelColor=0a2a3a" />
+  </a>
+  &nbsp;
+  <a href="mailto:sayammukherjee1506@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sayammukherjee1506%40gmail.com-7dd3fc?style=flat-square&logo=gmail&logoColor=7dd3fc&labelColor=0a2a3a" />
+  </a>
 </div>
 
 ---
@@ -23,21 +34,21 @@
 
 <img align="right" alt="Coding" width="290" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-```javascript
+```typescript
 const sayamMukherjee = {
-  title:    "AI & ML Student · Full Stack Developer · Builder",
+  title:    "AI & ML Student · Full Stack Developer (Builder)",
   stack:    {
     frontend: ["React", "JavaScript", "Tailwind CSS", "Bootstrap", "Figma"],
     backend:  ["Node.js", "MongoDB"],
-    ai:       ["Artificial Intelligence", "Machine Learning", "Generative AI"],
-    vision:   ["YOLOv8", "PyTorch", "Computer Vision", "Object Detection", "Tracking"],
+    ai:       ["Python", "Machine Learning", "Generative AI", "PyTorch"],
+    vision:   ["YOLOv8", "Computer Vision", "Object Detection", "Tracking"],
     tools:    ["Git", "GitHub", "VS Code", "Vercel", "Canva"],
   },
   projects: ["MAUSAM", "YOLOv8 Edge CV", "Fitness OS Pro", "MEMORY IN MOTION"],
   education: "B.Tech CSE (AI & ML) · KIIT University",
   status:   "First Year CGPA 9.06 · Expected Graduation 2029",
   focus:    "AI/ML · Computer Vision · Full Stack · DSA",
-  goal:     "Software Engineer + AI Engineer",
+  openTo:   "Internships · Collaborations · AI/ML & Software opportunities",
 };
 ```
 
