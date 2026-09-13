@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=240&section=header&text=Sayam%20Mukherjee&fontSize=58&fontColor=7dd3fc&animation=twinkling&fontAlignY=38&desc=B.Tech%20CSE%20%28AI%20%26%20ML%29%20%E2%80%94%20KIIT%20University&descAlignY=58&descSize=17&descColor=bae6fd" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Building+AI-powered+products+from+idea+to+deployment;React+%7C+Node.js+%7C+Python+%7C+Computer+Vision;Machine+Learning+%7C+Generative+AI+%7C+DSA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Building+AI-powered+products+from+0+to+deployment;React+%7C+Node.js+%7C+Python+%7C+Computer+Vision;Open+to+internships+%26+developer+opportunities" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@
   </a>
   &nbsp;
   <a href="mailto:sayammukherjee1506@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sayammukherjee1506%40gmail.com-7dd3fc?style=flat-square&logo=gmail&logoColor=7dd3fc&labelColor=0a2a3a" />
+    <img src="https://img.shields.io/badge/Email-sayammukherjee%40gmail.com-7dd3fc?style=flat-square&logo=gmail&logoColor=7dd3fc&labelColor=0a2a3a" />
   </a>
 </div>
 
@@ -79,23 +79,42 @@ const sayamMukherjee = {
 
 ---
 
-### 🧠 MEMORY IN MOTION — *Recurrent Memory for In-Context Learning*
-> DataForge 2026 · KDAG IIT Kharagpur · Explain the Frontier · Finalist
+### 🤖 YOLOv8 Edge CV — *Real-Time Multi-Object Detection & Tracking*
+> Computer vision · Deep learning · Edge AI
 
 <div align="center">
 
-[![Memory in Motion](https://github-readme-stats.vercel.app/api/pin/?username=codesbysayam&repo=Memory-in-Motion&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117)](https://github.com/codesbysayam/Memory-in-Motion)
+[![YOLOv8 Edge CV](https://github-readme-stats.vercel.app/api/pin/?username=codesbysayam&repo=YOLOv8-Edge-CV&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117)](https://github.com/codesbysayam)
 
 </div>
 
-| Layer | Technology / Focus |
-|---|---|
-| **Research** | In-Context Learning · Recurrent Memory |
-| **Core Idea** | Fixed-size recurrent state for task-relevant information |
-| **Challenge** | Compression · Interference · Forgetting |
-| **Focus** | AI Research · Machine Learning · Memory Mechanisms |
+**Core:** `YOLOv8` `PyTorch` `OpenCV` `Object Detection` `Multi-Object Tracking` `Edge AI`
 
-📂 **Code →** [github.com/codesbysayam/Memory-in-Motion](https://github.com/codesbysayam/Memory-in-Motion)
+---
+
+### 🏋️ Fitness OS Pro — *Fitness & Wellness SaaS*
+> Workouts · Nutrition · Progress · Subscriptions · Payments · Admin
+
+**Stack:** `React` `Node.js` `MongoDB` `Tailwind CSS` `Razorpay`
+
+---
+
+### 💰 Expense Analyzer — *Personal Finance Analysis*
+Expense tracking, spending-pattern analysis, financial insights and visualization.
+
+---
+
+### 📊 Finance Tracker — *Personal Finance Management*
+Personal finance tracking for expenses, investments, financial activity and analysis.
+
+---
+
+### 🧠 MEMORY IN MOTION — *Recurrent Memory for In-Context Learning*
+> DataForge 2026 · KDAG IIT Kharagpur · Explain the Frontier · **Finalist**
+
+Explores a fixed-size recurrent state for carrying task-relevant information forward without token-by-token memory growth, while studying interference and forgetting caused by compression.
+
+**Focus:** `AI Research` `Machine Learning` `In-Context Learning` `Recurrent Memory`
 
 ---
 
@@ -108,7 +127,7 @@ const sayamMukherjee = {
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma&theme=dark" />
 </p>
 
 ### Backend & Database
@@ -116,12 +135,11 @@ const sayamMukherjee = {
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" />
 </p>
 
-### AI / ML / Computer Vision
+### AI & Computer Vision
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/-YOLOv8-7dd3fc?style=flat-square&logoColor=0d1117&labelColor=0a2a3a" height="46" />
-  <img src="https://img.shields.io/badge/-Computer%20Vision-7dd3fc?style=flat-square&logoColor=0d1117&labelColor=0a2a3a" height="46" />
+  <img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-7dd3fc?style=flat-square&labelColor=0a2a3a" height="46" />
 </p>
 
 ### Dev Tools
@@ -186,12 +204,12 @@ const sayamMukherjee = {
     <img src="https://img.shields.io/badge/LinkedIn-0a2a3a?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" />
   </a>
   &nbsp;
-  <a href="mailto:sayammukherjee1506@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0a2a3a?style=for-the-badge&logo=gmail&logoColor=7dd3fc" />
-  </a>
-  &nbsp;
   <a href="https://www.sayammukherjee.in">
     <img src="https://img.shields.io/badge/Portfolio-0a2a3a?style=for-the-badge&logo=google-chrome&logoColor=7dd3fc" />
+  </a>
+  &nbsp;
+  <a href="mailto:sayammukherjee1506@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0a2a3a?style=for-the-badge&logo=gmail&logoColor=7dd3fc" />
   </a>
 </div>
 
