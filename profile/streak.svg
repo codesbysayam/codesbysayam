@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="220" viewBox="0 0 760 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a2a3a"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="3" y="3" width="754" height="214" rx="18" fill="url(#bg)" stroke="#38bdf8" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="38" y="48" fill="#bae6fd" font-size="18" font-weight="700">GITHUB STREAK</text>
+    <text x="38" y="77" fill="#f8fafc" font-size="30" font-weight="700">Keep the commits coming.</text>
+    <text x="38" y="104" fill="#94a3b8" font-size="15">Consistency • experimentation • shipping</text>
+    <g transform="translate(570 32)" filter="url(#glow)">
+      <path fill="#7dd3fc" d="M54 0c-5 21-24 29-24 48 0 14 10 25 25 25 18 0 30-13 30-31 0-15-10-28-24-42 1 12-2 18-8 25-2-10-1-17 1-25z"/>
+      <path fill="#0d1117" d="M57 33c-3 9-12 13-12 22 0 7 5 12 12 12 8 0 14-6 14-14 0-7-5-13-12-20 0 6-1 9-2 12z"/>
+    </g>
+    <line x1="38" y1="135" x2="722" y2="135" stroke="url(#line)" stroke-width="2" opacity=".8"/>
+    <g fill="#7dd3fc">
+      <circle cx="58" cy="166" r="7"><animate attributeName="opacity" values=".25;1;.25" dur="1.6s" repeatCount="indefinite"/></circle>
+      <circle cx="92" cy="166" r="7"><animate attributeName="opacity" values=".35;1;.35" dur="1.6s" begin=".2s" repeatCount="indefinite"/></circle>
+      <circle cx="126" cy="166" r="7"><animate attributeName="opacity" values=".45;1;.45" dur="1.6s" begin=".4s" repeatCount="indefinite"/></circle>
+      <circle cx="160" cy="166" r="7"><animate attributeName="opacity" values=".55;1;.55" dur="1.6s" begin=".6s" repeatCount="indefinite"/></circle>
+      <circle cx="194" cy="166" r="7"><animate attributeName="opacity" values=".65;1;.65" dur="1.6s" begin=".8s" repeatCount="indefinite"/></circle>
+      <circle cx="228" cy="166" r="7"><animate attributeName="opacity" values=".75;1;.75" dur="1.6s" begin="1s" repeatCount="indefinite"/></circle>
+      <circle cx="262" cy="166" r="7"><animate attributeName="opacity" values=".85;1;.85" dur="1.6s" begin="1.2s" repeatCount="indefinite"/></circle>
+    </g>
+    <text x="38" y="198" fill="#7dd3fc" font-size="13">LEARN</text>
+    <text x="110" y="198" fill="#94a3b8" font-size="13">BUILD</text>
+    <text x="182" y="198" fill="#94a3b8" font-size="13">SHIP</text>
+    <text x="255" y="198" fill="#94a3b8" font-size="13">REPEAT</text>
+    <text x="722" y="198" fill="#64748b" font-size="12" text-anchor="end">codesbysayam</text>
+  </g>
+</svg>
