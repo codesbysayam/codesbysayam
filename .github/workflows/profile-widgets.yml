@@ -7,6 +7,10 @@ on:
     - cron: "17 3 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: profile-widgets
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -70,7 +74,8 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "chore: refresh profile widgets" || echo "No widget changes"
-          git push
+          git pull --rebase origin main
+          git push origin HEAD:main
 
   snake:
     runs-on: ubuntu-latest
