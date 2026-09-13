@@ -1,10 +1,9 @@
 <div align="center">
 
 # 👋 Sayam Mukherjee
-
 ### B.Tech CSE (AI & ML) @ KIIT University
 
-**Artificial Intelligence · Machine Learning · Computer Vision · Full Stack · DSA**
+Artificial Intelligence · Machine Learning · Computer Vision · Full Stack · DSA
 
 Building practical software and AI-powered products that solve real problems.
 
@@ -30,7 +29,7 @@ Building practical software and AI-powered products that solve real problems.
 
 ```text
 ┌──────────────────────────────────────────────────────────┐
-│                    SAYAM MUKHERJEE                       │
+│                    SAYAM MUKHERJEE                      │
 │                                                          │
 │       B.Tech CSE — Artificial Intelligence & ML         │
 │                    KIIT University                       │
@@ -52,14 +51,7 @@ const sayamMukherjee = {
   university: "KIIT University",
   expectedGraduation: 2029,
   cgpa: "9.06 — First Year Overall",
-  focus: [
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Computer Vision",
-    "Generative AI",
-    "Full Stack Development",
-    "Data Structures & Algorithms"
-  ],
+  focus: ["Artificial Intelligence", "Machine Learning", "Computer Vision", "Generative AI", "Full Stack Development", "Data Structures & Algorithms"],
   roles: ["Student Developer", "Freelancer", "Content Creator", "Builder"],
   goal: "Software Engineer + AI Engineer",
   motto: "Learn. Build. Experiment. Ship."
@@ -72,165 +64,62 @@ I'm **Sayam Mukherjee**, a **B.Tech Computer Science Engineering student special
 
 I enjoy combining **AI, software engineering, full-stack development and product thinking** to turn ideas into practical digital products.
 
-### 🔭 Currently Exploring
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning & Deep Learning
-- 👁️ Computer Vision
-- ✨ Generative AI
-- 🌐 Full Stack Development
-- 🧩 Data Structures & Algorithms
-- 🚀 AI-powered SaaS
-- 📊 Data & Visualization
-- 🌦️ Weather & Environmental Technology
-- 💰 FinTech & Stock Market
-- 🔐 Ethical Hacking / Cybersecurity
-
 > **Don't just learn technology. Build something with it.**
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🌦️ MAUSAM
-### Intelligent Weather & Environmental Platform
-
+### 🌦️ MAUSAM — Intelligent Weather & Environmental Platform
 **Smart India Hackathon 2026 · SIH26076 · Team Algnite**
 
-A weather and environmental platform designed for travelers, commuters, farmers, outdoor fitness enthusiasts, parents and event planners.
+A weather and environmental platform for travelers, commuters, farmers, outdoor fitness enthusiasts, parents and event planners. It combines forecasts with environmental intelligence and actionable visualization.
 
-**Core capabilities:**
-- 🌡️ Current weather and forecasts
-- 🌫️ AQI and 🌼 pollen information
-- ☀️ UV index and 💧 humidity
-- 🌅 Sunrise / sunset
-- 🏃 Best outdoor activity hours
-- 🌊 Tide information
-- 🌱 Soil moisture
-- 🗺️ Interactive weather maps
-- 🇮🇳 State & UT information
-- 📊 Data visualization
-- 📁 CSV / Excel reports
-- 🌐 IMD-oriented integration
-- 🌦️ WRF / GEFS / ECMWF concepts
+**Highlights:** Weather & forecasts · AQI · pollen · UV index · humidity · sunrise/sunset · best outdoor activity hours · tides · soil moisture · interactive maps · state/UT information · data visualization · CSV/Excel reports · IMD-oriented integration · WRF/GEFS/ECMWF concepts.
 
 **Stack:** `React` `JavaScript` `Tailwind CSS` `Maps` `Weather APIs` `Vercel`
 
-</td>
-<td width="50%" valign="top">
+### 🤖 YOLOv8 Edge CV — Real-Time Multi-Object Detection & Tracking
+A computer-vision pipeline focused on real-time detection, tracking and edge-oriented AI.
 
-## 🤖 YOLOv8 Edge CV
-### Real-Time Multi-Object Detection & Tracking
+**Core:** `YOLOv8` `PyTorch` `OpenCV` `Object Detection` `Multi-Object Tracking` `Deep Learning` `Edge AI`
 
-A computer-vision pipeline focused on real-time detection and multi-object tracking for edge-oriented AI applications.
+### 🏋️ Fitness OS Pro — Fitness & Wellness SaaS
+Cross-platform fitness ecosystem covering workout management, nutrition, progress tracking, subscriptions, coupons, payments and administration.
 
-**Core:**
-- 👁️ Computer Vision
-- 🧠 Deep Learning
-- 🎯 YOLOv8
-- 🔥 PyTorch
-- 📦 Object Detection
-- 🎥 Multi-Object Tracking
-- ⚡ Edge AI
-
-**Focus:** `AI` `ML` `Computer Vision` `Deep Learning` `Edge Computing`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-## 🏋️ Fitness OS Pro
-### Fitness & Wellness SaaS
-
-A fitness ecosystem concept spanning mobile, web and administrative platforms.
-
-**Features:**
-- 🏋️ Workout management
-- 🥗 Fitness & nutrition
-- 📊 Progress tracking
-- 💳 Subscription plans
-- 🎟️ Coupon codes
-- 💰 Razorpay integration
-- 🖥️ Admin dashboard
-- 📱 Android / 🍎 iOS / 🌐 Web
+**Features:** Workout management · fitness & nutrition · progress tracking · subscription plans · coupon codes · Razorpay integration · admin dashboard · Android/iOS/Web concept.
 
 **Stack:** `React` `Node.js` `MongoDB` `Tailwind CSS` `Razorpay`
 
-</td>
-<td width="50%" valign="top">
+### 💰 Expense Analyzer — Personal Finance Analysis
+Application concept for analyzing expenses, spending patterns and financial insights through visualization.
 
-## 💰 Expense Analyzer
-### Personal Finance Analysis
+**Focus:** `Expense Analysis` `Spending Patterns` `Financial Insights` `Data Visualization` `FinTech`
 
-A finance-focused application concept for analyzing expenses, spending patterns and financial insights.
-
-**Focus:**
-- 📊 Expense analysis
-- 💸 Spending patterns
-- 📈 Financial insights
-- 📊 Data visualization
-- 🌐 Web development
-
-`Finance` `Data Analysis` `FinTech`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-## 📊 Finance Tracker
-### Personal Finance Management
-
-A finance-management concept focused on tracking expenses, financial activity and investments.
+### 📊 Finance Tracker — Personal Finance Management
+Tracks expenses, financial activity and investments with a focus on personal-finance monitoring and visualization.
 
 **Focus:** `Personal Finance` `Expense Tracking` `Investment Tracking` `Financial Analysis`
 
-</td>
-<td width="50%" valign="top">
+### 🧠 MEMORY IN MOTION — Recurrent Memory for In-Context Learning
+**DataForge 2026 · KDAG IIT Kharagpur · Pathway: Explain the Frontier · Finalist**
 
-## 🧠 MEMORY IN MOTION
-### Recurrent Memory for In-Context Learning
+Explores **In-Context Learning with Recurrent Memory**: a fixed-size recurrent state can carry task-relevant information forward without growing a token-by-token memory, while compression can introduce **interference and forgetting**.
 
-**DataForge 2026 · KDAG IIT Kharagpur · Explain the Frontier · Finalist**
-
-Exploring **In-Context Learning with Recurrent Memory**.
-
-A fixed-size recurrent state can carry task-relevant information forward without growing token-by-token memory, while compression can introduce **interference and forgetting**.
-
-`AI Research` `ML` `ICL` `Recurrent Memory`
-
-</td>
-</tr>
-</table>
+**Focus:** `AI Research` `Machine Learning` `In-Context Learning` `Recurrent Memory`
 
 ---
 
 # 🧠 More Projects & Product Concepts
 
-- 🧘 Personal Well-Being Manager
-- 🥗 Fitness & Nutrition Applications
-- 💸 Finance Applications
-- 📊 Expense Analysis
-- 🌐 Full Stack Applications
-- 🤖 AI-powered Tools
-- 👁️ Computer Vision Pipelines
-- 📱 Cross-platform Applications
-- 🖥️ SaaS Platforms
+Personal Well-Being Manager · Fitness & Nutrition Applications · Finance Applications · Expense Analysis · Full Stack Applications · AI-powered Tools · Computer Vision Pipelines · Cross-platform Applications · SaaS Platforms
 
 ---
 
 # 🛠️ Tech Stack
 
 ### 💻 Languages
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
-<img src="https://img.shields.io/badge/Verilog-HDL-7dd3fc?style=for-the-badge&labelColor=102a43&color=163a5f" />
-</div>
+<div align="center"><img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" /><img src="https://img.shields.io/badge/Verilog-HDL-7dd3fc?style=for-the-badge&labelColor=102a43&color=163a5f" /></div>
 
 ### 🌐 Frontend
 <div align="center"><img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma&theme=dark" /></div>
@@ -239,16 +128,10 @@ A fixed-size recurrent state can carry task-relevant information forward without
 <div align="center"><img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" /></div>
 
 ### 🤖 AI / ML / Computer Vision
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
-<img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-7dd3fc?style=for-the-badge&labelColor=102a43&color=163a5f" />
-</div>
+<div align="center"><img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" /><img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-7dd3fc?style=for-the-badge&labelColor=102a43&color=163a5f" /></div>
 
 ### 🔧 Tools & Platforms
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
-<img src="https://img.shields.io/badge/Canva-Design-7dd3fc?style=for-the-badge&logo=canva&logoColor=white&labelColor=102a43" />
-</div>
+<div align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" /><img src="https://img.shields.io/badge/Canva-Design-7dd3fc?style=for-the-badge&logo=canva&logoColor=white&labelColor=102a43" /></div>
 
 ---
 
@@ -273,18 +156,10 @@ A fixed-size recurrent state can carry task-relevant information forward without
 # 💼 What I Do
 
 ### 💻 Software & AI
-
 Artificial Intelligence · Machine Learning · Computer Vision · Full Stack Development · Web Development · DSA · AI Product Development · SaaS · Responsive Applications · Data Visualization
 
 ### 🎨 Freelancing
-
-- YouTube Thumbnail Design
-- Social Media Content Creation
-- Social Media Growth
-- Monetization
-- Google Ads
-- Meta Ads
-- Digital Marketing
+YouTube Thumbnail Design · Social Media Content Creation · Social Media Growth · Monetization · Google Ads · Meta Ads · Digital Marketing
 
 📧 **Business:** `wrickbusiness@gmail.com`
 
@@ -301,43 +176,27 @@ Travel, culture, adventure, facts and sports content.
 ### 🖤 Obsidian Optics
 Technology, future trends, finance, psychology, motivation, facts and perspective-changing content.
 
-> **Only these three channels are included in the YouTube content section.**
-
 ---
 
 # 🏆 Achievements & Activities
 
 ### 🚀 Smart India Hackathon 2026
-- **Track:** Software
-- **Problem Statement:** `SIH26076`
-- **Team:** `Algnite`
-- **Project:** **MAUSAM — Intelligent Weather & Environmental Platform**
+**Software Track · Problem Statement `SIH26076` · Team `Algnite` · Project MAUSAM**
 
 ### 🧠 DataForge 2026 — KDAG, IIT Kharagpur
-- **Result:** **Finalist**
-- **Pathway:** **Explain the Frontier**
-- **Concept:** **MEMORY IN MOTION**
-- **Focus:** In-Context Learning with Recurrent Memory
+**Finalist · Pathway: Explain the Frontier · MEMORY IN MOTION**
 
 ### 🧠 Technex'26 — IIT BHU
-- **Result:** **Finalist**
+**Finalist**
 
 ### 🧩 Toycathon 2021
-- **Result:** **National-level finals / Top 15**
+**National-level finals / Top 15**
 
 ### 🎉 KIIT Fest
-- Participated / contributed in the university's technical and cultural ecosystem.
+Participant / contributor.
 
-### 💻 Other Tech Events
-- Multiple hackathons, coding contests and technology events.
-
-### 🏓 Table Tennis Journey
-
-| Year | Milestone |
-|:---:|:---|
-| 2013 | Started playing Table Tennis |
-| 2019 | Represented district |
-| 2021 | Reached finals / Top 15 level |
+### 🏓 Table Tennis
+2013 — Started playing · 2019 — Represented district · 2021 — Reached finals / Top 15 level
 
 ---
 
@@ -375,51 +234,41 @@ Technology, future trends, finance, psychology, motivation, facts and perspectiv
 
 Interested in the intersection of **technology, finance and investing**.
 
-📈 Stock Market · 💰 Mutual Funds · 📊 Financial Analysis · 💸 Personal Finance · 📱 FinTech · 📊 Investment Tracking · 🤖 Technology-driven financial tools
+📈 Stock Market · 💰 Mutual Funds · 📊 Financial Analysis · 💸 Personal Finance · 📱 FinTech · 📊 Investment Tracking
 
 ---
 
 # 🎯 Current Focus
 
-<div align="center">
-
-`ARTIFICIAL INTELLIGENCE` → `MACHINE LEARNING` → `COMPUTER VISION` → `GENERATIVE AI` → `FULL STACK` → `DSA` → `AI PRODUCTS` → `SOFTWARE ENGINEERING`
-
-</div>
+<div align="center">`ARTIFICIAL INTELLIGENCE` → `MACHINE LEARNING` → `COMPUTER VISION` → `GENERATIVE AI` → `FULL STACK` → `DSA` → `AI PRODUCTS` → `SOFTWARE ENGINEERING`</div>
 
 ---
 
 # 📊 GitHub Statistics
 
 <div align="center">
-<img height="180" src="./profile/stats.svg" alt="GitHub Statistics" />
-<img height="180" src="./profile/top-langs.svg" alt="Top Languages" />
+<img height="190" src="./profile/stats.svg" alt="GitHub Statistics" />
+<img height="190" src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
-
-> These cards are generated automatically by GitHub Actions and stored in this repository, avoiding dependence on a live third-party stats image endpoint.
 
 ---
 
 # 🔥 GitHub Streak
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=codesbysayam&theme=nord&background=0d1117&border=7dd3fc&ring=7dd3fc&fire=38bdf8&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=6b9ab8&currStreakNum=bae6fd&sideNums=bae6fd" alt="GitHub Streak" />
-</div>
+<div align="center"><img src="https://streak-stats.demolab.com?user=codesbysayam&theme=nord&background=0d1117&border=7dd3fc&ring=7dd3fc&fire=38bdf8&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=6b9ab8&currStreakNum=bae6fd&sideNums=bae6fd" alt="GitHub Streak" /></div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
-<img src="./profile/trophy.svg" alt="GitHub Trophies" />
-</div>
+<div align="center"><img src="./profile/trophy.svg" alt="GitHub Trophies" /></div>
 
 ---
 
 # 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codesbysayam&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=bae6fd&area=true&hide_border=false&border_color=7dd3fc" alt="GitHub Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codesbysayam&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=bae6fd&area=true&hide_border=false&border_color=7dd3fc&area_color=102a43&custom_title=Sayam%20Mukherjee%20%E2%80%94%20GitHub%20Contribution%20Graph" alt="GitHub Contribution Graph" />
 </div>
 
 ---
@@ -427,13 +276,11 @@ Interested in the intersection of **technology, finance and investing**.
 # 🐍 Contribution Snake
 
 <div align="center">
-
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codesbysayam/codesbysayam/output/github-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codesbysayam/codesbysayam/output/github-snake.svg">
 <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/codesbysayam/codesbysayam/output/github-snake-dark.svg">
 </picture>
-
 </div>
 
 ---
@@ -467,32 +314,18 @@ Interested in the intersection of **technology, finance and investing**.
 # 🤝 Connect With Me
 
 <div align="center">
-
 <a href="https://github.com/codesbysayam"><img src="https://img.shields.io/badge/GITHUB-codesbysayam-0d1117?style=for-the-badge&logo=github&logoColor=7dd3fc" /></a>
 <a href="https://www.linkedin.com/in/sayam-mukherjee-b96209324/"><img src="https://img.shields.io/badge/LINKEDIN-Sayam%20Mukherjee-0d1117?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" /></a>
 <a href="https://www.sayammukherjee.in"><img src="https://img.shields.io/badge/PORTFOLIO-sayammukherjee.in-0d1117?style=for-the-badge&logo=google-chrome&logoColor=7dd3fc" /></a>
-
 <br/><br/>
-
 <a href="mailto:sayammukherjee1506@gmail.com"><img src="https://img.shields.io/badge/PERSONAL%20EMAIL-Contact%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=7dd3fc" /></a>
 <a href="mailto:wrickbusiness@gmail.com"><img src="https://img.shields.io/badge/BUSINESS%20EMAIL-Business%20Inquiries-0d1117?style=for-the-badge&logo=gmail&logoColor=7dd3fc" /></a>
-
 </div>
 
 ---
 
 # 💬 Developer Philosophy
 
-<div align="center">
+<div align="center">> **Learn. Build. Experiment. Ship.**</div>
 
-> **Learn. Build. Experiment. Ship.**
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Keep Building. Keep Learning. Keep Growing.
-
-</div>
+<div align="center"><sub>Profile assets are generated automatically through GitHub Actions.</sub></div>
