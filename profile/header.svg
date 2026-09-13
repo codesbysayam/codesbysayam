@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Sayam Mukherjee — B.Tech CSE AI and ML — KIIT University">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="30%" stop-color="#0a2a3a"/>
+      <stop offset="60%" stop-color="#0d3347"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-0.2 0;0.2 0;-0.2 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#0a2a3a"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <path d="M0 0H1200V190 C1020 225 900 205 760 190 C570 168 455 180 300 205 C180 224 80 218 0 190Z" fill="url(#wave)"/>
+  <path d="M0 205 C170 230 285 220 420 195 C575 167 685 171 830 194 C975 217 1080 220 1200 195" fill="none" stroke="#16465b" stroke-width="2" opacity="0.8">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 205 C170 230 285 220 420 195 C575 167 685 171 830 194 C975 217 1080 220 1200 195;M0 195 C150 215 290 228 430 205 C575 178 690 164 835 184 C990 206 1080 230 1200 200;M0 205 C170 230 285 220 420 195 C575 167 685 171 830 194 C975 217 1080 220 1200 195"/>
+  </path>
+  <text x="600" y="92" text-anchor="middle" fill="#7dd3fc" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="600" filter="url(#glow)">Sayam Mukherjee">
+    <animate attributeName="opacity" values="1;0.72;1" dur="4s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="139" text-anchor="middle" fill="#bae6fd" font-family="Arial, Helvetica, sans-serif" font-size="17">B.Tech CSE (AI &amp; ML) — KIIT University</text>
+  <circle cx="103" cy="62" r="2.2" fill="#7dd3fc"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.6s" repeatCount="indefinite"/></circle>
+  <circle cx="1090" cy="84" r="1.8" fill="#bae6fd"><animate attributeName="opacity" values="1;0.2;1" dur="3.1s" repeatCount="indefinite"/></circle>
+  <circle cx="990" cy="44" r="1.5" fill="#7dd3fc"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.1s" repeatCount="indefinite"/></circle>
+  <circle cx="205" cy="151" r="1.4" fill="#bae6fd"><animate attributeName="opacity" values="1;0.2;1" dur="3.6s" repeatCount="indefinite"/></circle>
+</svg>
