@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Footer">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="35%" stop-color="#0a2a3a"/>
+      <stop offset="65%" stop-color="#0d3347"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-0.15 0;0.15 0;-0.15 0" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" fill="url(#fbg)"/>
+  <path d="M0 35 C180 8 310 15 455 38 C610 63 710 62 855 40 C995 19 1080 12 1200 34V120H0Z" fill="#0d1117"/>
+  <path d="M0 34 C180 7 310 14 455 37 C610 62 710 61 855 39 C995 18 1080 11 1200 33" fill="none" stroke="#16465b" stroke-width="2">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 34 C180 7 310 14 455 37 C610 62 710 61 855 39 C995 18 1080 11 1200 33;M0 46 C160 16 310 5 460 30 C610 55 735 70 870 45 C1000 21 1090 20 1200 43;M0 34 C180 7 310 14 455 37 C610 62 710 61 855 39 C995 18 1080 11 1200 33"/>
+  </path>
+</svg>
