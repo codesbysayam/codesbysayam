@@ -1,70 +1,57 @@
 <div align="center">
 
-# 👋 Sayam Mukherjee
-### B.Tech CSE (AI & ML) @ KIIT University
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=240&section=header&text=Sayam%20Mukherjee&fontSize=58&fontColor=7dd3fc&animation=twinkling&fontAlignY=38&desc=B.Tech%20CSE%20%28AI%20%26%20ML%29%20%E2%80%94%20KIIT%20University&descAlignY=58&descSize=17&descColor=bae6fd" alt="Sayam Mukherjee" />
 
-Artificial Intelligence · Machine Learning · Computer Vision · Full Stack · DSA
-
-Building practical software and AI-powered products that solve real problems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%7C+Machine+Learning;Computer+Vision+%7C+Deep+Learning;Full+Stack+Development+%7C+DSA;Building+AI-Powered+Real-World+Products;Student+Developer+%7C+Freelancer+%7C+Builder" alt="Typing Animation" />
 
 <br/>
 
-<a href="https://github.com/codesbysayam"><img src="https://komarev.com/ghpvc/?username=codesbysayam&label=PROFILE%20VIEWS&color=7dd3fc&style=for-the-badge&labelColor=0d1117" /></a>
-<a href="https://github.com/codesbysayam?tab=followers"><img src="https://img.shields.io/github/followers/codesbysayam?label=FOLLOWERS&style=for-the-badge&color=7dd3fc&labelColor=0d1117" /></a>
-<a href="https://github.com/codesbysayam?tab=repositories"><img src="https://img.shields.io/github/stars/codesbysayam?label=STARS&style=for-the-badge&color=7dd3fc&labelColor=0d1117" /></a>
+<img src="https://img.shields.io/badge/🟢%20BUILDING%20%26%20LEARNING-AI%20%2F%20ML%20%2F%20FULL%20STACK-7dd3fc?style=for-the-badge&labelColor=0a2a3a&color=0d3347" alt="Current Focus" />
 
 <br/><br/>
 
-<a href="https://github.com/codesbysayam"><img src="https://img.shields.io/badge/GitHub-codesbysayam-0d1117?style=for-the-badge&logo=github&logoColor=7dd3fc" /></a>
-<a href="https://www.linkedin.com/in/sayam-mukherjee-b96209324/"><img src="https://img.shields.io/badge/LinkedIn-Sayam%20Mukherjee-0d1117?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" /></a>
-<a href="https://www.sayammukherjee.in"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0d1117?style=for-the-badge&logo=google-chrome&logoColor=7dd3fc" /></a>
+<a href="https://github.com/codesbysayam"><img src="https://komarev.com/ghpvc/?username=codesbysayam&label=Profile%20Views&color=7dd3fc&style=flat-square&labelColor=0a2a3a" /></a>
+<a href="https://github.com/codesbysayam?tab=followers"><img src="https://img.shields.io/github/followers/codesbysayam?label=Followers&style=flat-square&color=7dd3fc&labelColor=0a2a3a" /></a>
+<a href="https://www.linkedin.com/in/sayam-mukherjee-b96209324/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=flat-square&logo=linkedin&logoColor=7dd3fc&labelColor=0a2a3a" /></a>
+<a href="mailto:sayammukherjee1506@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-7dd3fc?style=flat-square&logo=gmail&logoColor=7dd3fc&labelColor=0a2a3a" /></a>
 
 </div>
 
 ---
 
-# 👨‍💻 Who I Am
+## 🧑‍💻 Who I Am
 
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                    SAYAM MUKHERJEE                      │
-│                                                          │
-│       B.Tech CSE — Artificial Intelligence & ML         │
-│                    KIIT University                       │
-│                                                          │
-│              Expected Graduation: 2029                  │
-│                                                          │
-│       AI • ML • Computer Vision • Full Stack • DSA     │
-└──────────────────────────────────────────────────────────┘
-```
-
-</div>
+<img align="right" alt="Coding" width="290" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ```javascript
 const sayamMukherjee = {
-  name: "Sayam Mukherjee",
-  username: "codesbysayam",
-  education: "B.Tech Computer Science Engineering",
-  specialization: "Artificial Intelligence & Machine Learning",
-  university: "KIIT University",
-  expectedGraduation: 2029,
-  cgpa: "9.06 — First Year Overall",
-  focus: ["Artificial Intelligence", "Machine Learning", "Computer Vision", "Generative AI", "Full Stack Development", "Data Structures & Algorithms"],
-  roles: ["Student Developer", "Freelancer", "Content Creator", "Builder"],
-  goal: "Software Engineer + AI Engineer",
-  motto: "Learn. Build. Experiment. Ship."
+  title:    "AI & ML Student · Full Stack Developer · Builder",
+  stack:    {
+    frontend: ["React", "JavaScript", "Tailwind CSS", "Bootstrap", "Figma"],
+    backend:  ["Node.js", "MongoDB"],
+    ai:       ["Artificial Intelligence", "Machine Learning", "Generative AI"],
+    vision:   ["YOLOv8", "PyTorch", "Computer Vision", "Object Detection", "Tracking"],
+    tools:    ["Git", "GitHub", "VS Code", "Vercel", "Canva"],
+  },
+  projects: ["MAUSAM", "YOLOv8 Edge CV", "Fitness OS Pro", "MEMORY IN MOTION"],
+  education: "B.Tech CSE (AI & ML) · KIIT University",
+  status:   "First Year CGPA 9.06 · Expected Graduation 2029",
+  focus:    "AI/ML · Computer Vision · Full Stack · DSA",
+  goal:     "Software Engineer + AI Engineer",
 };
 ```
 
+<br clear="right"/>
+
+---
+
 ## ⚡ About Me
 
-I'm **Sayam Mukherjee**, a **B.Tech Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning at KIIT University**, expected to graduate in **2029**.
+I'm **Sayam Mukherjee**, a B.Tech Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning at KIIT University**.
 
-I enjoy combining **AI, software engineering, full-stack development and product thinking** to turn ideas into practical digital products.
+I build practical software, AI/ML systems and full-stack products while exploring computer vision, generative AI, DSA and product engineering.
 
-> **Don't just learn technology. Build something with it.**
+> **Learn. Build. Experiment. Ship.**
 
 ---
 
@@ -73,65 +60,53 @@ I enjoy combining **AI, software engineering, full-stack development and product
 ### 🌦️ MAUSAM — Intelligent Weather & Environmental Platform
 **Smart India Hackathon 2026 · SIH26076 · Team Algnite**
 
-A weather and environmental platform for travelers, commuters, farmers, outdoor fitness enthusiasts, parents and event planners. It combines forecasts with environmental intelligence and actionable visualization.
+Weather and environmental intelligence for travelers, commuters, farmers, outdoor fitness enthusiasts, parents and event planners.
 
-**Highlights:** Weather & forecasts · AQI · pollen · UV index · humidity · sunrise/sunset · best outdoor activity hours · tides · soil moisture · interactive maps · state/UT information · data visualization · CSV/Excel reports · IMD-oriented integration · WRF/GEFS/ECMWF concepts.
+**Highlights:** Weather & forecasts · AQI · pollen · UV · humidity · sunrise/sunset · outdoor activity hours · tides · soil moisture · interactive maps · state/UT information · data visualization · CSV/Excel reports · IMD-oriented integration · WRF/GEFS/ECMWF concepts.
 
 **Stack:** `React` `JavaScript` `Tailwind CSS` `Maps` `Weather APIs` `Vercel`
 
 ### 🤖 YOLOv8 Edge CV — Real-Time Multi-Object Detection & Tracking
-A computer-vision pipeline focused on real-time detection, tracking and edge-oriented AI.
+Real-time object detection and tracking focused on computer vision, deep learning and edge AI.
 
-**Core:** `YOLOv8` `PyTorch` `OpenCV` `Object Detection` `Multi-Object Tracking` `Deep Learning` `Edge AI`
+**Core:** `YOLOv8` `PyTorch` `OpenCV` `Object Detection` `Multi-Object Tracking` `Edge AI`
 
 ### 🏋️ Fitness OS Pro — Fitness & Wellness SaaS
-Cross-platform fitness ecosystem covering workout management, nutrition, progress tracking, subscriptions, coupons, payments and administration.
-
-**Features:** Workout management · fitness & nutrition · progress tracking · subscription plans · coupon codes · Razorpay integration · admin dashboard · Android/iOS/Web concept.
+Cross-platform fitness ecosystem covering workouts, nutrition, progress, subscriptions, coupons, Razorpay payments and administration.
 
 **Stack:** `React` `Node.js` `MongoDB` `Tailwind CSS` `Razorpay`
 
 ### 💰 Expense Analyzer — Personal Finance Analysis
-Application concept for analyzing expenses, spending patterns and financial insights through visualization.
-
-**Focus:** `Expense Analysis` `Spending Patterns` `Financial Insights` `Data Visualization` `FinTech`
+Expense analysis, spending patterns, financial insights and visualization.
 
 ### 📊 Finance Tracker — Personal Finance Management
-Tracks expenses, financial activity and investments with a focus on personal-finance monitoring and visualization.
-
-**Focus:** `Personal Finance` `Expense Tracking` `Investment Tracking` `Financial Analysis`
+Personal-finance tracking for expenses, investments, financial activity and analysis.
 
 ### 🧠 MEMORY IN MOTION — Recurrent Memory for In-Context Learning
-**DataForge 2026 · KDAG IIT Kharagpur · Pathway: Explain the Frontier · Finalist**
+**DataForge 2026 · KDAG IIT Kharagpur · Explain the Frontier · Finalist**
 
-Explores **In-Context Learning with Recurrent Memory**: a fixed-size recurrent state can carry task-relevant information forward without growing a token-by-token memory, while compression can introduce **interference and forgetting**.
+Explores a fixed-size recurrent state for carrying task-relevant information forward without token-by-token memory growth, while studying interference and forgetting caused by compression.
 
-**Focus:** `AI Research` `Machine Learning` `In-Context Learning` `Recurrent Memory`
-
----
-
-# 🧠 More Projects & Product Concepts
-
-Personal Well-Being Manager · Fitness & Nutrition Applications · Finance Applications · Expense Analysis · Full Stack Applications · AI-powered Tools · Computer Vision Pipelines · Cross-platform Applications · SaaS Platforms
+**Focus:** `AI Research` `ML` `ICL` `Recurrent Memory`
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
-<div align="center"><img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" /><img src="https://img.shields.io/badge/Verilog-HDL-7dd3fc?style=for-the-badge&labelColor=102a43&color=163a5f" /></div>
+### Languages
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
 
-### 🌐 Frontend
-<div align="center"><img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma&theme=dark" /></div>
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma&theme=dark" />
 
-### ⚙️ Backend & Database
-<div align="center"><img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" /></div>
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" />
 
-### 🤖 AI / ML / Computer Vision
-<div align="center"><img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" /><img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-7dd3fc?style=for-the-badge&labelColor=102a43&color=163a5f" /></div>
+### AI / ML / Computer Vision
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" /> <img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-7dd3fc?style=for-the-badge&labelColor=102a43&color=163a5f" />
 
-### 🔧 Tools & Platforms
-<div align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" /><img src="https://img.shields.io/badge/Canva-Design-7dd3fc?style=for-the-badge&logo=canva&logoColor=white&labelColor=102a43" /></div>
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
 
 ---
 
@@ -148,18 +123,15 @@ Personal Well-Being Manager · Fitness & Nutrition Applications · Finance Appli
 | 🧩 DSA | Data Structures & Algorithms |
 | 🔐 Security | Ethical Hacking / Cybersecurity Interest |
 | 🎨 Design | Figma, Canva |
-| 🔧 Tools | Git, GitHub, VS Code, Vercel |
 | 📊 Finance | Stock Market, FinTech |
 
 ---
 
 # 💼 What I Do
 
-### 💻 Software & AI
-Artificial Intelligence · Machine Learning · Computer Vision · Full Stack Development · Web Development · DSA · AI Product Development · SaaS · Responsive Applications · Data Visualization
+**Software & AI:** Artificial Intelligence · Machine Learning · Computer Vision · Full Stack Development · Web Development · DSA · AI Product Development · SaaS · Data Visualization
 
-### 🎨 Freelancing
-YouTube Thumbnail Design · Social Media Content Creation · Social Media Growth · Monetization · Google Ads · Meta Ads · Digital Marketing
+**Freelancing:** YouTube Thumbnail Design · Social Media Content Creation · Social Media Growth · Monetization · Google Ads · Meta Ads · Digital Marketing
 
 📧 **Business:** `wrickbusiness@gmail.com`
 
@@ -181,10 +153,10 @@ Technology, future trends, finance, psychology, motivation, facts and perspectiv
 # 🏆 Achievements & Activities
 
 ### 🚀 Smart India Hackathon 2026
-**Software Track · Problem Statement `SIH26076` · Team `Algnite` · Project MAUSAM**
+**Software Track · `SIH26076` · Team Algnite · MAUSAM**
 
 ### 🧠 DataForge 2026 — KDAG, IIT Kharagpur
-**Finalist · Pathway: Explain the Frontier · MEMORY IN MOTION**
+**Finalist · Explain the Frontier · MEMORY IN MOTION**
 
 ### 🧠 Technex'26 — IIT BHU
 **Finalist**
@@ -202,8 +174,6 @@ Participant / contributor.
 
 # 🎓 Academic Journey
 
-<div align="center">
-
 | Qualification | Result |
 |:---|:---:|
 | 🏫 Class 10 — CBSE | **92.6%** |
@@ -213,34 +183,18 @@ Participant / contributor.
 | 🏛️ University | **KIIT University** |
 | 🎯 Expected Graduation | **2029** |
 
-</div>
-
 ---
 
 # 🚀 Hackathons, Competitions & Events
 
 | Event | Details / Result |
 |:---|:---|
-| **Smart India Hackathon 2026** | Software Track · `SIH26076` · Team Algnite · MAUSAM |
-| **DataForge 2026** | KDAG, IIT Kharagpur · Explain the Frontier · **Finalist** · MEMORY IN MOTION |
+| **Smart India Hackathon 2026** | Software Track · `SIH26076` · Algnite · MAUSAM |
+| **DataForge 2026** | KDAG IIT Kharagpur · Explain the Frontier · **Finalist** |
 | **Technex'26** | IIT BHU · **Finalist** |
 | **Toycathon 2021** | National-level finals / **Top 15** |
 | **KIIT Fest** | Participant / Contributor |
 | **Other Hackathons & Coding Contests** | Multiple technology events |
-
----
-
-# 💰 Finance & Investing
-
-Interested in the intersection of **technology, finance and investing**.
-
-📈 Stock Market · 💰 Mutual Funds · 📊 Financial Analysis · 💸 Personal Finance · 📱 FinTech · 📊 Investment Tracking
-
----
-
-# 🎯 Current Focus
-
-<div align="center">`ARTIFICIAL INTELLIGENCE` → `MACHINE LEARNING` → `COMPUTER VISION` → `GENERATIVE AI` → `FULL STACK` → `DSA` → `AI PRODUCTS` → `SOFTWARE ENGINEERING`</div>
 
 ---
 
@@ -268,7 +222,9 @@ Interested in the intersection of **technology, finance and investing**.
 # 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codesbysayam&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=bae6fd&area=true&hide_border=false&border_color=7dd3fc&area_color=102a43&custom_title=Sayam%20Mukherjee%20%E2%80%94%20GitHub%20Contribution%20Graph" alt="GitHub Contribution Graph" />
+<a href="https://github.com/codesbysayam">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codesbysayam&theme=react-dark&hide_border=true&custom_title=Sayam%20Mukherjee%20%E2%80%94%20GitHub%20Activity" alt="Sayam Mukherjee GitHub Contribution Graph" />
+</a>
 </div>
 
 ---
@@ -286,8 +242,6 @@ Interested in the intersection of **technology, finance and investing**.
 ---
 
 # 📌 Quick Facts
-
-<div align="center">
 
 | | |
 |:---|:---|
@@ -307,25 +261,23 @@ Interested in the intersection of **technology, finance and investing**.
 | 📷 Hobby | **Photography** |
 | 🎮 Hobby | **Gaming** |
 
-</div>
-
 ---
 
 # 🤝 Connect With Me
 
 <div align="center">
-<a href="https://github.com/codesbysayam"><img src="https://img.shields.io/badge/GITHUB-codesbysayam-0d1117?style=for-the-badge&logo=github&logoColor=7dd3fc" /></a>
-<a href="https://www.linkedin.com/in/sayam-mukherjee-b96209324/"><img src="https://img.shields.io/badge/LINKEDIN-Sayam%20Mukherjee-0d1117?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" /></a>
-<a href="https://www.sayammukherjee.in"><img src="https://img.shields.io/badge/PORTFOLIO-sayammukherjee.in-0d1117?style=for-the-badge&logo=google-chrome&logoColor=7dd3fc" /></a>
-<br/><br/>
-<a href="mailto:sayammukherjee1506@gmail.com"><img src="https://img.shields.io/badge/PERSONAL%20EMAIL-Contact%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=7dd3fc" /></a>
-<a href="mailto:wrickbusiness@gmail.com"><img src="https://img.shields.io/badge/BUSINESS%20EMAIL-Business%20Inquiries-0d1117?style=for-the-badge&logo=gmail&logoColor=7dd3fc" /></a>
+<a href="https://github.com/codesbysayam"><img src="https://img.shields.io/badge/GitHub-codesbysayam-0d1117?style=for-the-badge&logo=github&logoColor=7dd3fc" /></a>
+<a href="https://www.linkedin.com/in/sayam-mukherjee-b96209324/"><img src="https://img.shields.io/badge/LinkedIn-Sayam%20Mukherjee-0d1117?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" /></a>
+<a href="https://www.sayammukherjee.in"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0d1117?style=for-the-badge&logo=google-chrome&logoColor=7dd3fc" /></a>
+<a href="mailto:sayammukherjee1506@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=7dd3fc" /></a>
 </div>
 
 ---
 
-# 💬 Developer Philosophy
+<div align="center">
 
-<div align="center">> **Learn. Build. Experiment. Ship.**</div>
+> **Learn. Build. Experiment. Ship.**
 
-<div align="center"><sub>Profile assets are generated automatically through GitHub Actions.</sub></div>
+### ⭐ Keep Building. Keep Learning. Keep Growing.
+
+</div>
