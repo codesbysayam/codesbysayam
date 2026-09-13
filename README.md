@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://svg-banners.vercel.app/api?type=origin&text1=Sayam%20Mukherjee&text2=B.Tech%20CSE%20%28AI%20%26%20ML%29%20%E2%80%94%20KIIT%20University&width=1200&height=260" alt="Sayam Mukherjee — B.Tech CSE (AI & ML) — KIIT University" />
+<img width="100%" src="https://images.weserv.nl/?url=https%3A%2F%2Fcapsule-render.vercel.app%2Fapi%3Ftype%3Dwaving%26color%3D0%3A0d1117%2C30%3A0a2a3a%2C60%3A0d3347%2C100%3A0d1117%26height%3D240%26section%3Dheader%26text%3DSayam%2520Mukherjee%26fontSize%3D58%26fontColor%3D7dd3fc%26animation%3Dtwinkling%26fontAlignY%3D38%26desc%3DB.Tech%2520CSE%2520%2528AI%2520%2526%2520ML%2529%2520%25E2%2580%2594%2520KIIT%2520University%26descAlignY%3D58%26descSize%3D17%26descColor%3Dbae6fd" alt="Sayam Mukherjee — B.Tech CSE (AI & ML) — KIIT University" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%7C+Machine+Learning;Computer+Vision+%7C+Deep+Learning;Full+Stack+Development+%7C+DSA;Building+AI-Powered+Real-World+Products;Student+Developer+%7C+Freelancer+%7C+Builder" alt="Typing Animation" />
 
