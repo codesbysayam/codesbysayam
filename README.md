@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=240&section=header&text=Sayam%20Mukherjee&fontSize=58&fontColor=7dd3fc&animation=twinkling&fontAlignY=38&desc=B.Tech%20CSE%20%28AI%20%26%20ML%29%20%E2%80%94%20KIIT%20University&descAlignY=58&descSize=17&descColor=bae6fd" alt="Sayam Mukherjee" />
+<img width="100%" src="https://svg-banners.vercel.app/api?type=origin&text1=Sayam%20Mukherjee&text2=B.Tech%20CSE%20%28AI%20%26%20ML%29%20%E2%80%94%20KIIT%20University&width=1200&height=260" alt="Sayam Mukherjee — B.Tech CSE (AI & ML) — KIIT University" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%7C+Machine+Learning;Computer+Vision+%7C+Deep+Learning;Full+Stack+Development+%7C+DSA;Building+AI-Powered+Real-World+Products;Student+Developer+%7C+Freelancer+%7C+Builder" alt="Typing Animation" />
 
@@ -223,7 +223,7 @@ Participant / contributor.
 
 <div align="center">
 <a href="https://github.com/codesbysayam">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codesbysayam&theme=react-dark&hide_border=true&custom_title=Sayam%20Mukherjee%20%E2%80%94%20GitHub%20Activity" alt="Sayam Mukherjee GitHub Contribution Graph" />
+<img src="https://ghchart.rshah.org/7dd3fc/codesbysayam" alt="Sayam Mukherjee GitHub Contribution Graph" width="900" />
 </a>
 </div>
 
