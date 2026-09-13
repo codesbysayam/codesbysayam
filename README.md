@@ -38,8 +38,6 @@
 
 <img align="right" alt="Coding animation" width="290" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-### 👋 The Short Version
-
 I'm **Sayam Mukherjee**, a **B.Tech CSE (AI & ML) student at KIIT University** who enjoys taking an idea from a rough concept to a usable technical product.
 
 My work sits around **Artificial Intelligence, Machine Learning, Computer Vision, Full Stack Development and DSA**. I like understanding how systems work under the hood, experimenting with them, and then turning that learning into something people can actually use.
