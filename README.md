@@ -11,21 +11,13 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/codesbysayam">
-    <img src="https://komarev.com/ghpvc/?username=codesbysayam&label=Profile+Views&color=7dd3fc&style=flat-square&labelColor=0a2a3a" />
-  </a>
+  <a href="https://github.com/codesbysayam"><img src="https://komarev.com/ghpvc/?username=codesbysayam&label=Profile+Views&color=7dd3fc&style=flat-square&labelColor=0a2a3a" /></a>
   &nbsp;
-  <a href="https://github.com/codesbysayam?tab=followers">
-    <img src="https://img.shields.io/github/followers/codesbysayam?label=Followers&style=flat-square&color=7dd3fc&labelColor=0a2a3a" />
-  </a>
+  <a href="https://github.com/codesbysayam?tab=followers"><img src="https://img.shields.io/github/followers/codesbysayam?label=Followers&style=flat-square&color=7dd3fc&labelColor=0a2a3a" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/sayam-mukherjee-b96209324/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=flat-square&logo=linkedin&logoColor=7dd3fc&labelColor=0a2a3a" />
-  </a>
+  <a href="https://www.linkedin.com/in/sayam-mukherjee-b96209324/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=flat-square&logo=linkedin&logoColor=7dd3fc&labelColor=0a2a3a" /></a>
   &nbsp;
-  <a href="mailto:sayammukherjee1506@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sayammukherjee%40gmail.com-7dd3fc?style=flat-square&logo=gmail&logoColor=7dd3fc&labelColor=0a2a3a" />
-  </a>
+  <a href="mailto:sayammukherjee1506@gmail.com"><img src="https://img.shields.io/badge/Email-sayammukherjee%40gmail.com-7dd3fc?style=flat-square&logo=gmail&logoColor=7dd3fc&labelColor=0a2a3a" /></a>
 </div>
 
 ---
@@ -121,31 +113,19 @@ Explores a fixed-size recurrent state for carrying task-relevant information for
 ## 🛠️ Tech Stack
 
 ### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" /></p>
 
 ### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma&theme=dark" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma&theme=dark" /></p>
 
 ### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" /></p>
 
 ### AI & Computer Vision
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-7dd3fc?style=flat-square&labelColor=0a2a3a" height="46" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" /> &nbsp; <img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-7dd3fc?style=flat-square&labelColor=0a2a3a" height="46" /></p>
 
 ### Dev Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" /></p>
 
 ---
 
@@ -159,64 +139,34 @@ Explores a fixed-size recurrent state for carrying task-relevant information for
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=codesbysayam&theme=nord&background=0d1117&border=7dd3fc&ring=7dd3fc&fire=38bdf8&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=6b9ab8&currStreakNum=bae6fd&sideNums=bae6fd" />
-</div>
+<div align="center"><img src="https://streak-stats.demolab.com?user=codesbysayam&theme=nord&background=0d1117&border=7dd3fc&ring=7dd3fc&fire=38bdf8&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=6b9ab8&currStreakNum=bae6fd&sideNums=bae6fd" /></div>
 
 ---
 
 ## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codesbysayam&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=codesbysayam&theme=nord&no-frame=true&no-bg=true&row=1&column=7" /></div>
 
 ---
 
 ## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codesbysayam&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=bae6fd&area=true&hide_border=false&border_color=7dd3fc&area_color=0a2a3a" />
-</div>
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=codesbysayam&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=bae6fd&area=true&hide_border=false&border_color=7dd3fc&area_color=0a2a3a" /></div>
 
 ---
 
 ## 🐍 Contributions Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codesbysayam/codesbysayam/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codesbysayam/codesbysayam/output/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/codesbysayam/codesbysayam/output/github-snake-dark.svg" />
-  </picture>
-</div>
+<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codesbysayam/codesbysayam/output/github-snake-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codesbysayam/codesbysayam/output/github-snake.svg" /><img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/codesbysayam/codesbysayam/output/github-snake-dark.svg" /></picture></div>
 
 ---
 
 ## 🤝 Connect
-
 <div align="center">
-  <a href="https://github.com/codesbysayam">
-    <img src="https://img.shields.io/badge/GitHub-0a2a3a?style=for-the-badge&logo=github&logoColor=7dd3fc" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/sayam-mukherjee-b96209324/">
-    <img src="https://img.shields.io/badge/LinkedIn-0a2a3a?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" />
-  </a>
-  &nbsp;
-  <a href="https://www.sayammukherjee.in">
-    <img src="https://img.shields.io/badge/Portfolio-0a2a3a?style=for-the-badge&logo=google-chrome&logoColor=7dd3fc" />
-  </a>
-  &nbsp;
-  <a href="mailto:sayammukherjee1506@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0a2a3a?style=for-the-badge&logo=gmail&logoColor=7dd3fc" />
-  </a>
+<a href="https://github.com/codesbysayam"><img src="https://img.shields.io/badge/GitHub-0a2a3a?style=for-the-badge&logo=github&logoColor=7dd3fc" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/sayam-mukherjee-b96209324/"><img src="https://img.shields.io/badge/LinkedIn-0a2a3a?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" /></a>&nbsp;
+<a href="https://www.sayammukherjee.in"><img src="https://img.shields.io/badge/Portfolio-0a2a3a?style=for-the-badge&logo=google-chrome&logoColor=7dd3fc" /></a>&nbsp;
+<a href="mailto:sayammukherjee1506@gmail.com"><img src="https://img.shields.io/badge/Gmail-0a2a3a?style=for-the-badge&logo=gmail&logoColor=7dd3fc" /></a>
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
-</div>
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" /></div>
 
 <img width="100%" src="https://raw.githubusercontent.com/codesbysayam/codesbysayam/main/profile/footer.svg" />
