@@ -180,12 +180,6 @@ A digital finance-management project focused on tracking financial activity, exp
 </div>
 
 
-<div align="center">
-  <a href="https://github.com/codesbysayam/Memory-in-Motion">
-    <img height="190" src="./profile/pin-memory-in-motion.svg" alt="MEMORY IN MOTION GitHub project card" />
-  </a>
-</div>
-
 Explores how a fixed-size recurrent state can carry task-relevant information forward without token-by-token memory growth, while compression introduces **interference and forgetting**.
 
 **Focus:** `AI Research` · `Machine Learning` · `In-Context Learning` · `Recurrent Memory`
@@ -217,18 +211,6 @@ A human-governed multi-agent operations platform for Support, Finance, HR and Op
 An AI-agent coordination concept with explicit policy checks, approval gates, failure recovery and auditable execution records.
 
 **Stack:** `React` · `TypeScript` · `Vite` · `Tailwind CSS`
-
-### 👁️ [SightForge — Real-Time Computer Vision](https://github.com/codesbysayam/SightForge)
-
-<div align="center">
-  <a href="https://github.com/codesbysayam/SightForge">
-    <img width="500" src="./profile/pin-sightforge.svg" alt="SightForge project card" />
-  </a>
-</div>
-
-A computer-vision platform for real-time video analysis, YOLOv8 detection, pose estimation and persistent multi-object tracking with ByteTrack.
-
-**Focus:** `YOLOv8` · `OpenCV` · `Pose Estimation` · `ByteTrack` · `Edge CV`
 
 ### 🎨 [Inkloom — AI-Assisted Logo Design Platform](https://github.com/codesbysayam/inkloom)
 
