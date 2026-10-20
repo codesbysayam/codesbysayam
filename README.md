@@ -114,8 +114,8 @@ A comprehensive weather and environmental platform for health-conscious users, o
 
 ---
 
-### 🤖 YOLOv8 Edge CV — *Real-Time Multi-Object Detection & Tracking*
-> Computer Vision · Deep Learning · Edge AI
+### 🤖 [YOLOv8 Edge CV — Real-Time Multi-Object Detection & Tracking](https://github.com/codesbysayam/SightForge)
+> Computer Vision · Deep Learning · Edge AI · [View Repository](https://github.com/codesbysayam/SightForge)
 
 A real-time computer vision pipeline focused on object detection and multi-object tracking using modern deep-learning technologies.
 
