@@ -157,7 +157,6 @@ A finance-oriented application concept for analyzing expenses, understanding spe
 ---
 
 ### 📊 Finance Tracker — *Personal Finance Management*
-
 A digital finance-management project focused on tracking financial activity, expenses and investments through a structured interface.
 
 **Focus:** `FinTech` · `Finance Management` · `Data Visualization` · `Web Development`
@@ -176,6 +175,45 @@ A digital finance-management project focused on tracking financial activity, exp
 Explores how a fixed-size recurrent state can carry task-relevant information forward without token-by-token memory growth, while compression introduces **interference and forgetting**.
 
 **Focus:** `AI Research` · `Machine Learning` · `In-Context Learning` · `Recurrent Memory`
+
+---
+
+## 🧩 More Projects
+
+### 🤖 [Operon — Autonomous Operations Platform](https://github.com/codesbysayam/Operon)
+A human-governed multi-agent operations platform for Support, Finance, HR and Operations, designed around workflow automation, policy boundaries and human approval.
+
+**Focus:** `Multi-Agent AI` · `Workflow Orchestration` · `Human-in-the-Loop Governance` · [Live Demo](https://operonpro.vercel.app)
+
+### 🧠 [AXIOM — Autonomous Operations Control Plane](https://github.com/codesbysayam/AXIOM)
+An AI-agent coordination concept with explicit policy checks, approval gates, failure recovery and auditable execution records.
+
+**Stack:** `React` · `TypeScript` · `Vite` · `Tailwind CSS`
+
+### 👁️ [SightForge — Real-Time Computer Vision](https://github.com/codesbysayam/SightForge)
+A computer-vision platform for real-time video analysis, YOLOv8 detection, pose estimation and persistent multi-object tracking with ByteTrack.
+
+**Focus:** `YOLOv8` · `OpenCV` · `Pose Estimation` · `ByteTrack` · `Edge CV`
+
+### 🎨 [Inkloom — AI-Assisted Logo Design Platform](https://github.com/codesbysayam/inkloom)
+A platform exploring specialized AI models for logo construction, including brand analysis, typography, geometric symbol construction and composition.
+
+**Status:** Early access platform; logo generation is not live yet. · [Visit inkloom.art](https://inkloom.art)
+
+### 🌐 [Personal Portfolio](https://github.com/codesbysayam/Sayam-Mukherjee-Portfolio)
+A responsive portfolio and engineering showcase built with React, TypeScript, Tailwind CSS, Vite and an Express backend.
+
+**Stack:** `React` · `TypeScript` · `Tailwind CSS` · `Vite` · `Express` · [Live Website](https://www.sayammukherjee.in)
+
+### 🎓 [Campus Connect](https://github.com/codesbysayam/CAMPUSCONNECT_1273)
+A campus event-management application where students can discover events and manage registrations, while organizers create and manage events through a dashboard.
+
+**Stack:** `Next.js` · `TypeScript` · `Vitest` · `Vercel`
+
+### 💻 [Sayam Solves — LeetCode & DSA](https://github.com/codesbysayam/sayam-solves)
+A growing archive of LeetCode solutions focused on algorithmic thinking, consistency, optimization and core Data Structures & Algorithms practice.
+
+**Focus:** `DSA` · `Problem Solving` · `Algorithms` · `Technical Interview Preparation`
 
 ---
 
@@ -317,7 +355,6 @@ Started playing in 2013 · Represented district level in 2019 · Reached finals 
 <div align="center">
   <img src="./profile/trophy.svg" alt="GitHub Trophies" />
 </div>
-
 ---
 
 ## 📈 Contribution Graph
