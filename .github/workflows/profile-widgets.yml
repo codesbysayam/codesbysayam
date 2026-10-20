@@ -3,6 +3,8 @@ name: Update Profile README Widgets
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - 'profile/**'
   schedule:
     - cron: "17 3 * * *"
   workflow_dispatch:
@@ -59,7 +61,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
+          git add profile/stats.svg profile/top-langs.svg profile/trophy.svg profile/activity-graph.svg
           git commit -m "chore: refresh profile widgets" || echo "No widget changes"
           git pull --rebase origin main
           git push origin HEAD:main
