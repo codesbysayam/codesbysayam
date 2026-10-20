@@ -53,6 +53,92 @@ jobs:
           path: profile/pin-memory-in-motion.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate YOLOv8 Edge CV pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=codesbysayam&repo=SightForge&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117
+          path: profile/pin-sightforge.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Operon pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=codesbysayam&repo=Operon&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117
+          path: profile/pin-operon.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate AXIOM pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=codesbysayam&repo=AXIOM&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117
+          path: profile/pin-axiom.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Inkloom pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=codesbysayam&repo=inkloom&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117
+          path: profile/pin-inkloom.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Portfolio pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=codesbysayam&repo=Sayam-Mukherjee-Portfolio&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117
+          path: profile/pin-portfolio.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Campus Connect pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=codesbysayam&repo=CAMPUSCONNECT_1273&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117
+          path: profile/pin-campusconnect.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Sayam Solves pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=codesbysayam&repo=sayam-solves&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117
+          path: profile/pin-sayam-solves.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Add project icons to card descriptions
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          icons = {
+              "pin-mausam.svg": "🌦️ ",
+              "pin-memory-in-motion.svg": "🧠 ",
+              "pin-sightforge.svg": "👁️ ",
+              "pin-operon.svg": "🤖 ",
+              "pin-axiom.svg": "🧠 ",
+              "pin-inkloom.svg": "🎨 ",
+              "pin-portfolio.svg": "💻 ",
+              "pin-campusconnect.svg": "🎓 ",
+              "pin-sayam-solves.svg": "💻 ",
+          }
+          for filename, icon in icons.items():
+              path = Path("profile") / filename
+              if not path.exists():
+                  continue
+              svg = path.read_text(encoding="utf-8")
+              match = re.search(r'(<text class="description"[^>]*>.*?<tspan[^>]*>)(.*?)(</tspan>)', svg, re.S)
+              if not match:
+                  continue
+              first_line = match.group(2)
+              if not re.match(r'\s*(🌦️|🧠|👁️|🤖|🎨|💻|🎓)', first_line):
+                  svg = svg[:match.start(2)] + icon + first_line + svg[match.end(2):]
+                  path.write_text(svg, encoding="utf-8")
+          PY
+
       - name: Generate GitHub trophies
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
