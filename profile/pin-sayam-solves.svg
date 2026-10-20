@@ -6,12 +6,14 @@
     <path d="M6 24v5l5.5-3 5.5 3v-5"/>
   </g>
   <text x="68" y="43" class="header">sayam-solves</text>
-  <text x="32" y="82" class="description">💻 Daily coding challenges and DSA practice</text>
+  <text x="32" y="87" font-size="27" class="project-icon">💻</text>
+<text x="66" y="82" class="description">Daily coding challenges and DSA practice</text>
   <text x="32" y="106" class="description">Algorithms, LeetCode and problem-solving</text>
   <text x="32" y="130" class="description">Building consistency one challenge at a time.</text>
   <circle cx="36" cy="160" r="7" fill="#f34b7d"/>
   <text x="58" y="165" class="language">C++</text>
   <style>
+    .project-icon{font-size:27px}
     .header{font:600 22px 'Segoe UI',Ubuntu,Arial,sans-serif;fill:#7dd3fc}
     .description{font:400 15.5px 'Segoe UI',Ubuntu,Arial,sans-serif;fill:#bae6fd}
     .language{font:400 14px 'Segoe UI',Ubuntu,Arial,sans-serif;fill:#bae6fd}
