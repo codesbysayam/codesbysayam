@@ -109,33 +109,30 @@ jobs:
           path: profile/pin-sayam-solves.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Add project icons to card descriptions
+      - name: Apply consistent project descriptions to cards
         run: |
           python - <<'PY'
           from pathlib import Path
           import re
-          icons = {
-              "pin-mausam.svg": "🌦️ ",
-              "pin-memory-in-motion.svg": "🧠 ",
-              "pin-sightforge.svg": "👁️ ",
-              "pin-operon.svg": "🤖 ",
-              "pin-axiom.svg": "🧠 ",
-              "pin-inkloom.svg": "🎨 ",
-              "pin-portfolio.svg": "💻 ",
-              "pin-campusconnect.svg": "🎓 ",
-              "pin-sayam-solves.svg": "💻 ",
+          descriptions = {
+              "pin-mausam.svg": ["🌦️ Mausam is a smart weather intelligence", "platform for SIH 2026 by Team Algnite. 🇮🇳", "Weather, AQI, UV, pollen, tides & more."],
+              "pin-memory-in-motion.svg": ["🧠 Recurrent memory for in-context learning", "DataForge 2026 · KDAG IIT Kharagpur", "Researching compression, interference & forgetting."],
+              "pin-sightforge.svg": ["👁️ Real-time computer vision with YOLOv8", "Object detection, pose estimation & tracking", "Built for practical Edge CV workflows."],
+              "pin-operon.svg": ["🤖 Autonomous operations with multi-agent AI", "Human-in-the-loop workflows across teams", "Policy-aware automation with approval gates."],
+              "pin-axiom.svg": ["🧠 Agentic AI operations control plane", "Policy checks, approval gates & recovery", "Auditable execution for coordinated AI agents."],
+              "pin-inkloom.svg": ["🎨 AI-assisted logo design and brand systems", "Brand analysis, typography & symbol design", "Early-access platform for creative workflows."],
+              "pin-portfolio.svg": ["💻 Interactive AI-powered engineering portfolio", "Projects, skills, achievements & learning journey", "Built with modern web technologies."],
+              "pin-campusconnect.svg": ["🎓 Full-stack campus event management", "Discover events, register & manage activities", "Organizer dashboards for campus communities."],
+              "pin-sayam-solves.svg": ["💻 Daily coding challenges and DSA practice", "Algorithms, LeetCode & problem-solving", "Building consistency one challenge at a time."],
           }
-          for filename, icon in icons.items():
+          for filename, lines in descriptions.items():
               path = Path("profile") / filename
               if not path.exists():
                   continue
               svg = path.read_text(encoding="utf-8")
-              match = re.search(r'(<text class="description"[^>]*>.*?<tspan[^>]*>)(.*?)(</tspan>)', svg, re.S)
-              if not match:
-                  continue
-              first_line = match.group(2)
-              if not re.match(r'\s*(🌦️|🧠|👁️|🤖|🎨|💻|🎓)', first_line):
-                  svg = svg[:match.start(2)] + icon + first_line + svg[match.end(2):]
+              block = '<text class="description" x="25" y="-5">' + ''.join(f'<tspan dy="1.2em" x="25">{line}</tspan>' for line in lines) + '</text>'
+              svg, count = re.subn(r'<text class="description" x="25" y="-5">.*?</text>', lambda _: block, svg, count=1, flags=re.S)
+              if count:
                   path.write_text(svg, encoding="utf-8")
           PY
 
