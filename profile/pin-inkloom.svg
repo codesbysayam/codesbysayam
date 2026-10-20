@@ -6,11 +6,13 @@
     <path d="M6 24v5l5.5-3 5.5 3v-5"/>
   </g>
   <text x="68" y="43" class="header">inkloom</text>
-  <text x="32" y="82" class="description">🎨 AI-assisted logo design and brand systems</text>
+  <text x="32" y="87" font-size="27" class="project-icon">🎨</text>
+<text x="66" y="82" class="description">AI-assisted logo design and brand systems</text>
 <text x="32" y="106" class="description">Brand analysis, typography and symbol design</text>
 <text x="32" y="130" class="description">Specialized models for creative workflows.</text>
   
   <style>
+    .project-icon{font-size:27px}
     .header{font:600 22px 'Segoe UI',Ubuntu,Arial,sans-serif;fill:#7dd3fc}
     .description{font:400 15.5px 'Segoe UI',Ubuntu,Arial,sans-serif;fill:#bae6fd}
     .language{font:400 14px 'Segoe UI',Ubuntu,Arial,sans-serif;fill:#bae6fd}
