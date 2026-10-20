@@ -114,6 +114,7 @@ jobs:
           python - <<'PY'
           from pathlib import Path
           import re
+          from xml.sax.saxutils import escape
           descriptions = {
               "pin-mausam.svg": ["🌦️ Mausam is a smart weather intelligence", "platform for SIH 2026 by Team Algnite. 🇮🇳", "Weather, AQI, UV, pollen, tides & more."],
               "pin-memory-in-motion.svg": ["🧠 Recurrent memory for in-context learning", "DataForge 2026 · KDAG IIT Kharagpur", "Researching compression, interference & forgetting."],
@@ -130,7 +131,7 @@ jobs:
               if not path.exists():
                   continue
               svg = path.read_text(encoding="utf-8")
-              block = '<text class="description" x="25" y="-5">' + ''.join(f'<tspan dy="1.2em" x="25">{line}</tspan>' for line in lines) + '</text>'
+              block = '<text class="description" x="25" y="-5">' + ''.join(f'<tspan dy="1.2em" x="25">{escape(line)}</tspan>' for line in lines) + '</text>'
               svg, count = re.subn(r'<text class="description" x="25" y="-5">.*?</text>', lambda _: block, svg, count=1, flags=re.S)
               if count:
                   path.write_text(svg, encoding="utf-8")
