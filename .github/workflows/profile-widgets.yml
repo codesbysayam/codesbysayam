@@ -41,7 +41,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=codesbysayam&repo=mausam&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117
+          options: username=codesbysayam&repo=mausam_sample&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117
           path: profile/pin-mausam.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
