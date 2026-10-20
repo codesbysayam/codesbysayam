@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="188" viewBox="0 0 500 188" role="img" aria-label="inkloom repository card">
   <title>inkloom GitHub repository card</title>
   <rect x="1" y="1" width="498" height="186" rx="6" fill="#0d1117" stroke="#7dd3fc" stroke-width="1.5"/>
-  <g transform="translate(31 28)" fill="none" stroke="#7dd3fc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="2" y="1" width="13" height="16" rx="1"/>
-    <path d="M5 17v4l4-2 4 2v-4"/>
+  <g transform="translate(29 22)" fill="none" stroke="#7dd3fc" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="2" y="1" width="19" height="23" rx="1.8"/>
+    <path d="M6 24v5l5.5-3 5.5 3v-5"/>
   </g>
-  <text x="60" y="43" class="header">inkloom</text>
+  <text x="68" y="43" class="header">inkloom</text>
   <text x="32" y="82" class="description">🎨 AI-assisted logo design and brand systems</text>
 <text x="32" y="106" class="description">Brand analysis, typography and symbol design</text>
 <text x="32" y="130" class="description">Specialized models for creative workflows.</text>
