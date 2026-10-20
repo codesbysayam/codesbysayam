@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/codesbysayam"><img src="https://komarev.com/ghpvc/?username=codesbysayam&label=Profile+Views&color=7dd3fc&style=flat-square&labelColor=0a2a3a" alt="Profile Views" /></a>
+  <a href="https://github.com/codesbysayam"><img src="https://img.shields.io/badge/GitHub%20Profile-Visit%20Profile-7dd3fc?style=flat-square&labelColor=0a2a3a&color=0d3347" alt="Profile Views" /></a>
   &nbsp;
   <a href="https://github.com/codesbysayam?tab=followers"><img src="https://img.shields.io/github/followers/codesbysayam?label=Followers&style=flat-square&color=7dd3fc&labelColor=0a2a3a" alt="Followers" /></a>
   &nbsp;
@@ -94,7 +94,7 @@ I enjoy working at the intersection of **AI, software engineering and product de
 > Smart India Hackathon 2026 · Problem Statement **SIH26076** · Team **Algnite**
 
 <div align="center">
-  <a href="https://github.com/codesbysayam/mausam">
+  <a href="https://github.com/codesbysayam/mausam_sample">
     <img height="190" src="./profile/pin-mausam.svg" alt="MAUSAM GitHub project card" />
   </a>
 </div>
@@ -110,7 +110,7 @@ A comprehensive weather and environmental platform for health-conscious users, o
 | **Reports & Models** | CSV/Excel Reports · WRF · GEFS · ECMWF concepts |
 | **Stack** | React · JavaScript · Tailwind CSS · Weather APIs · Vercel |
 
-🌐 **Code →** [github.com/codesbysayam/mausam](https://github.com/codesbysayam/mausam)
+🌐 **Code →** [github.com/codesbysayam/mausam](https://github.com/codesbysayam/mausam_sample)
 
 ---
 
